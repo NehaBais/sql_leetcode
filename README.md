@@ -9,3 +9,6 @@
 | LeetCode | 595        | Big Countries                    | Easy       |
 | LeetCode | 175        | Combine Two Tables               | Easy       |
 | LeetCode | 182        | Duplicate Emails                 | Easy       |
+| LeetCode | 1693       | Daily Leads and Partners         | Easy       |
+| LeetCode | 1084       | Sales Analysis III               | Easy       |
+| LeetCode | 607        | Sales Person                     | Easy       |
