@@ -16,3 +16,5 @@
 | LeetCode | [1729](https://leetcode.com/problems/find-followers-count/)                    | Find Followers Count                                  | Easy       |
 | LeetCode | [584](https://leetcode.com/problems/find-customer-referee/)                     | Find Customers Referee                                | Easy       |
 | LeetCode | [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)                     | Customer Placing the largest Number of Orders         | Easy       |
+| LeetCode | [1965](https://leetcode.com/problems/employees-with-missing-information/)                     | Employees With Missing Information         | Easy       |
+| LeetCode | [1581](https://leetcode.com/problemscustomer-who-visited-but-did-not-make-any-transactions/)       | Customers Who Visited But Did Not Make Any Transactions         | Easy       |
