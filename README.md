@@ -21,7 +21,8 @@
 | LeetCode | [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/)       | Employees Earning More Than Their Managers         | Easy       |
 | LeetCode | [196](https://leetcode.com/problems/delete-duplicate-emails/)       | Delete Duplicate Emails         | Easy       |
 | LeetCode | [183](https://leetcode.com/problems/customers-who-never-order/)       | Customers Who Never Order         | Easy       |
-
+| LeetCode | [176](https://leetcode.com/problems/second-highest-salary/)       | Second Highest Salary         | Medium       |
+| LeetCode | [178](https://leetcode.com/problems/rank-scores/)       | Rank Scores         | Medium       |
 
 
 
