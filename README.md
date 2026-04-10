@@ -18,3 +18,10 @@
 | LeetCode | [586](https://leetcode.com/problems/customer-placing-the-largest-number-of-orders/)                     | Customer Placing the largest Number of Orders         | Easy       |
 | LeetCode | [1965](https://leetcode.com/problems/employees-with-missing-information/)                     | Employees With Missing Information         | Easy       |
 | LeetCode | [1581](https://leetcode.com/problemscustomer-who-visited-but-did-not-make-any-transactions/)       | Customers Who Visited But Did Not Make Any Transactions         | Easy       |
+| LeetCode | [181](https://leetcode.com/problems/employees-earning-more-than-their-managers/)       | Employees Earning More Than Their Managers         | Easy       |
+| LeetCode | [196](https://leetcode.com/problems/delete-duplicate-emails/)       | Delete Duplicate Emails         | Easy       |
+| LeetCode | [183](https://leetcode.com/problems/customers-who-never-order/)       | Customers Who Never Order         | Easy       |
+
+
+
+
