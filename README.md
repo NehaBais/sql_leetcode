@@ -23,6 +23,7 @@
 | LeetCode | [183](https://leetcode.com/problems/customers-who-never-order/)       | Customers Who Never Order         | Easy       |
 | LeetCode | [176](https://leetcode.com/problems/second-highest-salary/)       | Second Highest Salary         | Medium       |
 | LeetCode | [178](https://leetcode.com/problems/rank-scores/)       | Rank Scores         | Medium       |
+| LeetCode | [180](https://leetcode.com/problems/consecutive-numbers/)       | Consecutive Numbers         | Medium       |
 
 
 
